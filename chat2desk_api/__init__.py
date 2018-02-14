@@ -1,1 +1,1 @@
-from .client import Client, MessageType, Transport, DialogState, Coordinates
+from .client import Client, MessageType, Transport, DialogState, Coordinates, Sender
